@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 8 51 46" width="51" height="46" role="img" aria-label="lanterns.fun">
+  <defs>
+    <linearGradient id="beamL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C2410C" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C2410C" stop-opacity="0.20"/>
+    </linearGradient>
+  </defs>
+  <polygon points="15.4,14 24.6,14 45,48 11,48" fill="url(#beamL)"/>
+  <polygon points="43.4,10 48.6,10 60,33 44,33" fill="url(#beamL)"/>
+  <ellipse cx="28" cy="48" rx="17" ry="5.3" fill="#C2410C"/>
+  <ellipse cx="52" cy="33" rx="8" ry="2.5" fill="#C2410C"/>
+  <ellipse cx="20" cy="14" rx="4.6" ry="1.44" fill="#9A3412"/>
+  <ellipse cx="46" cy="10" rx="2.6" ry="0.81" fill="#9A3412"/>
+</svg>

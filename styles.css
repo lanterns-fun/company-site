@@ -53,10 +53,19 @@ nav {
 }
 
 .logo a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
     color: var(--text-dark);
     font-size: 1.25rem;
     font-weight: 700;
     text-decoration: none;
+}
+
+.logo img {
+    display: block;
+    width: 31px;
+    height: 28px;
 }
 
 .nav-links {
