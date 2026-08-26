@@ -6,11 +6,11 @@
 }
 
 :root {
-    --primary-orange: #FF6B35;
+    --primary-orange: #C2410C;
     --light-grey: #F3F4F6;
     --dark-grey: #374151;
     --white: #FFFFFF;
-    --text-dark: #111827;
+    --text-dark: #0F172A;
     --text-light: #6B7280;
     --border-light: #E5E7EB;
 }
@@ -96,7 +96,7 @@ nav {
 }
 
 .btn.primary:hover {
-    background-color: #e55a2e;
+    background-color: #9A3412;
     transform: translateY(-1px);
 }
 
