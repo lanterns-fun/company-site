@@ -64,8 +64,9 @@ nav {
 
 .logo img {
     display: block;
-    width: 31px;
+    width: 28px;
     height: 28px;
+    border-radius: 6px;
 }
 
 .nav-links {

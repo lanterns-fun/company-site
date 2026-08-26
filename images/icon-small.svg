@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="lanterns.fun">
-  <rect width="64" height="64" rx="12" fill="#0F172A"/>
-  <polygon points="18.5,15 29.5,15 52,47 12,47" fill="#F59E0B" opacity="0.42"/>
-  <ellipse cx="32" cy="47" rx="20" ry="6.4" fill="#FBBF24"/>
-  <ellipse cx="24" cy="15" rx="5.5" ry="1.9" fill="#FEF3C7"/>
+  <rect width="64" height="64" rx="12" fill="#334155"/>
+  <polygon points="18.5,15 29.5,15 52,47 12,47" fill="#FBEBC4" opacity="0.42"/>
+  <ellipse cx="32" cy="47" rx="20" ry="6.4" fill="#F5C86B"/>
+  <ellipse cx="24" cy="15" rx="5.5" ry="1.9" fill="#FBEBC4"/>
 </svg>
